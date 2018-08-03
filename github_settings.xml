@@ -1,6 +1,7 @@
 <application>
-  <component name="GithubSettings">
-    <option name="LOGIN" value="gao1399677" />
-    <option name="AUTH_TYPE" value="BASIC" />
+  <component name="GithubAccounts">
+    <account id="7886a0b5-6767-4dbb-8a49-66573429fa15" name="gao1399677">
+      <server host="github.com" />
+    </account>
   </component>
 </application>
