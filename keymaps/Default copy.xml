@@ -8,7 +8,4 @@
   <action id="RevealIn">
     <keyboard-shortcut first-keystroke="shift ctrl q" />
   </action>
-  <action id="SurroundWith">
-    <keyboard-shortcut first-keystroke="ctrl alt r" />
-  </action>
 </keymap>
