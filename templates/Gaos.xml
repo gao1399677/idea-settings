@@ -1,0 +1,8 @@
+<templateSet group="Gaos">
+  <template name="gaos" value="// TODO  $date$ by SGao" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date(&quot;yyyy/MM/dd&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
