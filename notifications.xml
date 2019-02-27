@@ -1,6 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Mybatis Plugin" displayType="NONE" shouldLog="false" />
     <notification groupId="Run Dashboard" displayType="STICKY_BALLOON" />
   </component>
 </application>
