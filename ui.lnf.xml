@@ -3,6 +3,7 @@
     <option name="CONSOLE_COMMAND_HISTORY_LIMIT" value="350" />
     <option name="FONT_SCALE" value="1.0" />
     <option name="FONT_SIZE" value="13" />
+    <option name="MAX_LOOKUP_WIDTH2" value="786" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
   </component>
 </application>
