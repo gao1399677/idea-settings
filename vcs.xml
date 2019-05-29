@@ -98,6 +98,18 @@
           <option name="url" value="git@gitlab.com:work-together/client-record.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="a9:39:e2:36:f9:cc:4f:98:14:15:d7:b5:f4:c1:f1:88" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/work-together/client-record.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="gao1399677" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\YuKeXing-idea" />
