@@ -110,6 +110,10 @@
           <option name="url" value="http://gitlab.com" />
           <option name="userName" value="gao1399677" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/apache/shiro.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\YuKeXing-idea" />
