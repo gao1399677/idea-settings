@@ -126,8 +126,12 @@
           <option name="url" value="https://github.com/apache/dubbo-samples.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://localhost:15672" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\YuKeXing-idea" />
+    <option name="cloneParentDir" value="D:\Uninstalled" />
   </component>
 </application>
