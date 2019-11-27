@@ -1,9 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="CptApplicationTest" type="PLAIN_TEXT" />
-      <mapping ext="filter" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="filter" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
