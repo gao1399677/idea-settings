@@ -130,9 +130,13 @@
           <option name="url" value="http://localhost:15672" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/alibaba/spring-cloud-alibaba.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Uninstalled" />
+    <option name="cloneParentDir" value="D:\idea-default" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
