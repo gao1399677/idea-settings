@@ -1,3 +1,3 @@
 <application>
-  <component name="MavenVersion" vmOptions="-Xmx1024m" />
+  <component name="MavenVersion" vmOptions="-Xmx1024m" mavenHome="D:/Uninstalled/apache-maven-3.6.3/apache-maven/src/bin" />
 </application>
