@@ -1,1 +1,6 @@
-<keymap version="1" name="Windows Proper Redo" parent="$default" />
+<keymap version="1" name="Windows Proper Redo" parent="$default">
+  <action id="SurroundWith">
+    <keyboard-shortcut first-keystroke="ctrl alt t" />
+    <keyboard-shortcut first-keystroke="ctrl alt r" />
+  </action>
+</keymap>
