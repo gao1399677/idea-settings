@@ -170,6 +170,10 @@
           <option name="url" value="https://github.com/elunez/eladmin.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/gao1399677/custom-shiro.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\YuKeXing-idea" />
