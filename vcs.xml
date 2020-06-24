@@ -186,6 +186,10 @@
           <option name="url" value="https://github.com/spring-guides/gs-reactive-rest-service.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/shiro-organization/ykx-shiro-spring-boot-starter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\YuKeXing-idea" />
