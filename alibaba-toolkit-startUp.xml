@@ -1,6 +1,7 @@
 <application>
   <component name="TipsStore">
     <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/AppData/Local/Temp/IntelliJ jar all.rar" startUpFlag="FIRST" />
     <entry projectPath="D:/YuKeXing-idea/code/server/busticket/trunk" startUpFlag="FIRST" />
     <entry projectPath="D:/YuKeXing-idea/code/server/driverApp/trunk/driverApp" startUpFlag="FIRST" />
     <entry projectPath="D:/YuKeXing-idea/code/server/marketing/branches/2.3/marketing" startUpFlag="FIRST" />
@@ -10,5 +11,9 @@
     <entry projectPath="D:/YuKeXing-idea/code/server/ykx-shiro-spring-boot-starter" startUpFlag="FIRST" />
     <entry projectPath="D:/YuKeXing-idea/code/server/ykx-shiro-spring-boot-starter/trunk/ykx-shiro-spring-boot-starter" startUpFlag="FIRST" />
     <entry projectPath="D:/YuKeXing-idea/register" startUpFlag="FIRST" />
+    <entry projectPath="D:/YuKeXing-idea/新思维/业务Trunk2.0" startUpFlag="FIRST" />
+    <entry projectPath="D:/YuKeXing-idea/新思维/包车系统对接客运经营管理系统/源代码/ykxorder" startUpFlag="FIRST" />
+    <entry projectPath="D:/YuKeXing-idea/新思维/管理trunk2.0" startUpFlag="FIRST" />
+    <entry projectPath="E:/SmartSVN/同程艺龙/代码/TCRegularVehicleCharterSystem" startUpFlag="FIRST" />
   </component>
 </application>
