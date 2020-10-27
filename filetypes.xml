@@ -5,6 +5,7 @@
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="CptApplicationTest" type="PLAIN_TEXT" />
       <mapping ext="filter" type="PLAIN_TEXT" />
+      <mapping ext="rar" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping pattern="RegisterInfoMapper" type="XML" />
     </extensionMap>
