@@ -2,6 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="IDE and Plugin Updates" displayType="NONE" shouldLog="false" />
     <notification groupId="Key Promoter X" displayType="NONE" shouldLog="false" />
+    <notification groupId="Lombok plugin" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="mybatisCodeHelper" displayType="NONE" shouldLog="false" />
   </component>
 </application>
