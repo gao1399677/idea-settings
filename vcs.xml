@@ -1,0 +1,28 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="https://code-c.cmft.com/CMEW-CMEW-LF/java-cmnit-common-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://code-c.cmft.com" />
+          <option name="userName" value="10219046" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code-c.cmft.com/CMEW-CMEW-LF/serstruct.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code-c.cmft.com/CMEW-CMEW-LF/java-cmnit-common-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="D:\idea" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
+  </component>
+</application>
