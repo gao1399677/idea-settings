@@ -18,6 +18,10 @@
           <option name="url" value="https://code-c.cmft.com/CMEW-CMEW-LF/java-cmnit-common-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code-c.cmft.com/CMEW-CMEW-LF/java-cmnit-device-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\idea" />
