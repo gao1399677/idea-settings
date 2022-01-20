@@ -1,6 +1,8 @@
 <application>
   <component name="TipsStore">
     <entry projectPath="D:/WorkStation/idea/java-cmnit-common-service" startUpFlag="FIRST" />
+    <entry projectPath="D:/WorkStation/idea/java-cmnit-user-api" startUpFlag="FIRST" />
+    <entry projectPath="D:/WorkStation/idea/java-cmnit-user-service" startUpFlag="FIRST" />
     <entry projectPath="D:/WorkStation/idea/serstruct" startUpFlag="FIRST" />
     <entry projectPath="D:/idea/java-cmnit-common-service" startUpFlag="FIRST" />
     <entry projectPath="D:/idea/java-cmnit-device-api" startUpFlag="FIRST" />

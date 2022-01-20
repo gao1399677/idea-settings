@@ -22,9 +22,17 @@
           <option name="url" value="https://code-c.cmft.com/CMEW-CMEW-LF/java-cmnit-device-api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code-c.cmft.com/CMEW-CMNITSharingPlatform/java-cmnit-user-service.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://code-c.cmft.com/CMEW-CMNITSharingPlatform/java-cmnit-user-api.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\idea" />
+    <option name="cloneParentDir" value="D:\WorkStation\idea" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ID_ORDER">
