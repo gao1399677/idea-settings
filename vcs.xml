@@ -58,6 +58,10 @@
           <option name="url" value="https://code-c.cmft.com/CMEW-CMEW-LF/qidi-sanduling.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/nacos-group/nacos-sync.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\WorkStation\idea" />
