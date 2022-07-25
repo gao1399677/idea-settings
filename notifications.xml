@@ -2,6 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="Accepted language levels" displayType="NONE" />
     <notification groupId="IDE and Plugin Updates" displayType="NONE" />
-    <notification groupId="Proofreading missing languages information" displayType="STICKY_BALLOON" shouldLog="false" />
+    <notification groupId="Language Plugins Notifications" shouldLog="false" />
+    <notification groupId="Proofreading missing languages information" displayType="NONE" shouldLog="false" />
   </component>
 </application>
